@@ -1,5 +1,3 @@
-**Professional experience**
-
 Fund Internship Program, International Monetary Fund 2022
 
 Research fellow for Gautam Gowrisankaran, Columbia University [Spring 2022]
