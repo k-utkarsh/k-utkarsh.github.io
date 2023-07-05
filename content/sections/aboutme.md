@@ -4,4 +4,5 @@ I hold a Masters in Economics from the Delhi School of Economics and an undergra
 I previously worked as a Research Associate at Indian Statistical Institute, New Delhi and a high school teacher at Isha Home School, Tamil Nadu. Beyond academics, I am a professionally trained Squash player, an avid violinist and mountaineer. I also coached the UC Berkeley Mens' Squash team in 2022-2023.  
 
 __[Curriculum Vitae](/pdf/academic_CV_july.pdf")__ (Updated July 2023)
+
 References: Eric Verhoogen, Gautam Gowrisankaran, Jack Willis
