@@ -60,6 +60,12 @@
 {{ .Content }}
 {{ end }}
 
+{{ with .GetPage "/sections/professional_exp.md" }}
+<hr>
+<h2 id="professional_exp">Professional Experience</h2>
+{{ .Content }}
+{{ end }}
+
 {{ with .GetPage "/sections/personal.md" }}
 <hr>
 <h2 id="personal">Personal</h2>
