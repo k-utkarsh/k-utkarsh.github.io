@@ -1,5 +1,5 @@
 {{ define "main" -}}
-<h2 id="bio">About</h2>
+<h2 id="bio">Bio</h2>
 {{ with .GetPage "/sections/aboutme.md" }}
 {{ .Content }}
 {{ end }}
@@ -20,24 +20,13 @@
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
-{{ with .Site.Data.jmp }}
-<hr>
-<h2 id="jmp">Job Market Paper</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}
-{{ end }}
-{{ end }}
-{{ end }}
-
 {{ with .Site.Data.publications }}
 <hr>
-<h2 id="publications">Job Market Paper</h2>
+<h2 id="publications">Publications</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}
+{{ $scratch.Add "pubcnt" 1 }}   
 {{ end }}
 {{ end }}
 {{ end }}
@@ -49,7 +38,7 @@
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}
+{{ $scratch.Add "pubcnt" 1 }}   
 {{ end }}
 {{ end }}
 {{ end }}
@@ -60,28 +49,16 @@
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}
+{{ $scratch.Add "pubcnt" 1 }}   
 {{ end }}
 {{ end }}
 {{ end }}
 
-{{ with .GetPage "/sections/teaching.md" }}
+{{ with .GetPage "/sections/from-another-life.md" }}
 <hr>
-<h2 id="teaching">Teaching</h2>
+<h2 id="fromanotherlife">From Another Life</h2>
 {{ .Content }}
 {{ end }}
-
-{{ .Content }}
-{{- end }}
-
-{{ with .GetPage "/sections/professional_exp.md" }}
-<hr>
-<h2 id="professional_exp">Professional Experience</h2>
-{{ .Content }}
-{{ end }}
-
-{{ .Content }}
-{{- end }}
 
 {{ with .GetPage "/sections/personal.md" }}
 <hr>
