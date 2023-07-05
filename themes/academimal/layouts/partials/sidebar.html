@@ -1,4 +1,4 @@
-<p class="contactinfo"><a href="{{ "#bio" | relURL }}">Bio</a></p>
+<p class="contactinfo"><a href="{{ "#bio" | relURL }}">About</a></p>
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
@@ -6,7 +6,7 @@
 <p class="contactinfo"><a href="{{ "#officehours" | relURL }}">Office Hours</a></p>
 {{ end }}
 {{ with .Site.Data.publications }}
-<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
+<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Job Market Paper</a></p>
 {{ end }}
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Working Papers</a></p>
@@ -14,8 +14,11 @@
 {{ with .Site.Data.work_in_progress }}
 <p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Work in Progress</a></p>
 {{ end }}
-{{ with .GetPage "/sections/from-another-life.md" }}
-<p class="contactinfo"><a href="{{ "#fromanotherlife" | relURL }}">From Another Life</a></p>
+{{ with .GetPage "/sections/teaching.md" }}
+<p class="contactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
+{{ end }}
+{{ with .GetPage "/sections/professional_exp.md" }}
+<p class="contactinfo"><a href="{{ "#professional_exp" | relURL }}">Professional Experience</a></p>
 {{ end }}
 {{ with .GetPage "/sections/personal.md" }}
 <p class="lastcontactinfo"><a href="{{ "#personal" | relURL }}">Personal</a></p>
