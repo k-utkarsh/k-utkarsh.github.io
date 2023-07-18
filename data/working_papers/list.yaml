@@ -18,6 +18,8 @@ works:
   pdflink: "/pdf/trains.pdf"
   note: "Preliminary draft available upon request"
   book: "Vickrey Award for Best 3rd Year Paper, Runners up, Columbia University 2021"
+  abstract: >
+      TBD
 
 - title: "Can large scale conditional cash transfers resolve the fertility-sex ratio tradeoff?"
   note: "Preliminary draft available upon request"
