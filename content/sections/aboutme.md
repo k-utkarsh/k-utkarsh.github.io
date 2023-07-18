@@ -2,5 +2,5 @@ I am a 6th year PhD Economics Candidate at [Columbia University, New York](https
 
 I hold a Masters in Economics from the Delhi School of Economics and an undergraduate degree in Economics from St. Stephen's College, University of Delhi. I previously worked as a Research Associate at Indian Statistical Institute, New Delhi and a high school teacher at Isha Home School, Tamil Nadu.  
 
-__[Curriculum Vitae](https://k-utkarsh.github.io/pdf/academic_CV_july.pdf")__ (Updated July 2023)  
+[Curriculum Vitae](https://k-utkarsh.github.io/pdf/academic_CV_july.pdf) (Updated July 2023)  
 References: Eric Verhoogen, Gautam Gowrisankaran, Jack Willis
