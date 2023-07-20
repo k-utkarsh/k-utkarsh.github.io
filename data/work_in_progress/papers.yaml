@@ -14,8 +14,20 @@ works:
   note: "UC Berkeley Diversity Fellowship (2021, 2022)"
   coauthors: "Shreya Chandra"
   abstract: >
-      TBD
+      Absent adequate urban planning, accelerated urbanization in developing countries can have severe consequences. 
+      Lack of waste management in India has resulted in huge trash mountains in major urban areas including Delhi. 
+      These overflowing landfill sites disproportionately affect the urban poor. 
+      Recent policy debates in Delhi have highlighted lack of public investment in cleaning up trash mountains. 
+      But how much should the government invest in clearing up trash mountains? 
+      This project aims to build a city-level willingness-to-pay measure using an urban spatial equilibrium model. 
+      Using granular data from the Indian census, we aim to calibrate an urban model for Delhi and evaluate welfare improvements from counterfactual removal of three major trash mountains. 
+      Monetized value of overall welfare gains will provide a measure of city-level willingness-to-pay to remove Delhi's trash mountains. 
 
 - title: "Optimal spatial distribution of economic activity in a changing climate"
   abstract: >
-      TBD
+      I study how tropical countries can optimally allocate public resources to cities that are likely to be less affected by climate change: future sea-level rise and rising temperature. 
+      The project will have a model of spatial equilibrium where firms and workers optimally choose locations (cities) that maximize profits and utility, respectively, subject to moving costs. 
+      Public investment in a city (for example, in transport infrastructure) leads to higher productivity and amenities in the city; thereby attracting firms and workers (agglomeration forces). 
+      This influx of economic activity however gives rise to dispersion forces in the form of higher rents and congestion. 
+      Inundation due to sea level rise leads to unusable coastal land and infrastructure while increase in relative temperature leads to a decline in productivity at the city level.  
+      Optimal public investment portfolio across cities will be chosen to maximize long-run welfare subject to predicted impacts of climate change.
