@@ -15,6 +15,7 @@ works:
   pdflink: "/pdf/digital_dividends.pdf"
   coauthors: "David Amaglobeli and Mariano Mozsoro"
   book: "IMF Working Paper 2023"
+  note: "Substantial contribution to Staff Discussion Note: Transforming Public Finance Through GovTech"
   abstract: >
       We identify key drivers of digital adoption, estimate fiscal costs to provide internet subsidies to households, and calculate social dividends from digital adoption. 
       Using cross-country panel regressions and machine learning we find that digital infrastructure coverage, internet price, and usability are the most statistically robust predictors of internet use in the short-run. 
