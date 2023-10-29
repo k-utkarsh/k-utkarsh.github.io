@@ -7,5 +7,5 @@ Secondary fields : Environmental Economics, Industrial Organization
 
 **I am on the 2023/24 Job Market.**
 
-[Curriculum Vitae](https://k-utkarsh.github.io/pdf/uk_CV_sep2023.pdf) (Updated September 2023)  
+[Curriculum Vitae](https://k-utkarsh.github.io/pdf/uk_CV_oct2023.pdf) (Updated October 2023)  
 References: Eric Verhoogen, Gautam Gowrisankaran, Jack Willis
