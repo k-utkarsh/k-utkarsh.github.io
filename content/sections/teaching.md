@@ -1,5 +1,5 @@
 **Department of Economics, Columbia University, New York**  
-Teaching Fellow, (Undergraduate) Principles of Economics [Fall 2020]  
+Teaching Fellow, (Undergraduate) Principles of Economics [Fall 2023]  
 Head Teaching Fellow, (Undergraduate) Principles of Economics [Fall 2021]  
 Teaching Fellow, (Undergraduate) Principles of Economics [Fall 2020]  
 Instructor, (Undergraduate) Industrial Organization [Summer 2021]  
