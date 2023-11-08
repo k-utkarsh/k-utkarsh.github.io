@@ -29,7 +29,7 @@ works:
       respectively, improves education quality substantially and increases labor-force participation equivalent to 1.8 percent of GDP, largely driven by women.
 
 - title: "Infrastructure resilience against environmental shocks and economic effects of transport disruptions: Evidence from India (Slides available)"
-  pdflink: "/pdf/trains_slides.pdf"
+  pdflink: "/pdf/trains_paper.pdf"
   book: "Vickrey Award for Best 3rd Year Paper, Runners up, Columbia University 2021"
   abstract: >
       Combining novel data on millions of trips across the Indian railway network with satellite-based environmental data, I establish a causal link between the practice of crop-residue burning in India on disruptions in transport infrastructure using three independent causal inference techniques. I show that crop-residue burning gives rise to high volumes of particulate pollution, which combined with India’s humid climate creates dense layers of smog. This smog not only affects peoples’ health, but also affects India’s entire transport infrastructure due to reduced visibility. As a result, rural workers’ monthly savings decline as they switch to private modes of transport and buy more fuel.
