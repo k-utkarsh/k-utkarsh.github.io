@@ -15,7 +15,6 @@ works:
   pdflink: "/pdf/digital_dividends.pdf"
   coauthors: "David Amaglobeli and Mariano Mozsoro"
   book: "IMF Working Paper 2023"
-  note: "Substantial contribution to Staff Discussion Note: Transforming Public Finance Through GovTech"
   abstract: >
       We identify key drivers of digital adoption, estimate fiscal costs to provide internet subsidies to households, and calculate social dividends from digital adoption. 
       Using cross-country panel regressions and machine learning we find that digital infrastructure coverage, internet price, and usability are the most statistically robust predictors of internet use in the short-run. 
@@ -28,11 +27,15 @@ works:
       Moving low-income and emerging market economies to the level of digital adoption in emerging and advanced economies, 
       respectively, improves education quality substantially and increases labor-force participation equivalent to 1.8 percent of GDP, largely driven by women.
 
-- title: "Infrastructure resilience against environmental shocks and economic effects of transport disruptions: Evidence from India (Slides available)"
+- title: "Infrastructure resilience against environmental shocks and economic effects of transport disruptions: Evidence from India (Preliminary slides available)"
   pdflink: "/pdf/trains_paper.pdf"
   book: "Vickrey Award for Best 3rd Year Paper, Runners up, Columbia University 2021"
   abstract: >
-      Combining novel data on millions of trips across the Indian railway network with satellite-based environmental data, I establish a causal link between the practice of crop-residue burning in India on disruptions in transport infrastructure using three independent causal inference techniques. I show that crop-residue burning gives rise to high volumes of particulate pollution, which combined with India’s humid climate creates dense layers of smog. This smog not only affects peoples’ health, but also affects India’s entire transport infrastructure due to reduced visibility. As a result, rural workers’ monthly savings decline as they switch to private modes of transport and buy more fuel.
+      Combining novel data on millions of trips across the Indian railway network with satellite-based environmental data, I establish a causal link between the practice of crop-residue burning in India on disruptions in transport infrastructure using three independent causal inference techniques. 
+      I show that crop-residue burning gives rise to high volumes of particulate pollution, which combined with India’s humid climate creates dense layers of smog. 
+      This smog causes significant unpredictable delays across India’s entire transport infrastructure due to reduced visibility. 
+      Given increased policy attention towards crop-residue burning in India, this finding shows that the adverse effects of severe air pollution extend beyond the Northern Indian states.
+      Furthermore, I find suggestive evidence that rural workers’ monthly savings decline as they switch to private modes of transport and buy more fuel.
 
 - title: "Can large scale conditional cash transfers resolve the fertility-sex ratio tradeoff?"
   note: "Preliminary draft available upon request"
@@ -40,5 +43,5 @@ works:
       Currently, there are at least 15 conditional cash transfer schemes in India that aim to correct persisting gender inequalities arising out of a preference for sons in Indian families. 
       Despite huge financial resources being pumped into these schemes, there is a lack of field-level monitoring and useful redressal mechanisms which make their impact un-clear. 
       I evaluate a conditional cash transfer (CCT) scheme called Ladli Laxmi Yojana in Madhya Pradesh, India. 
-      I find financial incentives aimed at the girl child increased average fertility by about 0.157 children per couple and improved sex-ratio by about 0.034 points pointing to the well known fertility-sex ratio trade-off. 
-      These effects are quite opposite to a similar CCT scheme in Haryana (Anukriti 2018) suggesting context/path dependence of these policies.
+      I find financial incentives aimed at the girl child increased average fertility by about 0.157 children per couple and improved sex-ratio by about 0.034. These findings point towards the well known fertility-sex ratio trade-off. 
+      These effects are quite different from a similar CCT scheme in Haryana (Anukriti 2018), suggesting context dependence of such policies.
