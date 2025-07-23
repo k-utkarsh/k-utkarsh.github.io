@@ -1,3 +1,4 @@
+Visting Scholar and Consultant, International Monetary Fund 2024 
 Fund Internship Program, International Monetary Fund 2022  
 Research fellow for Gautam Gowrisankaran, Columbia University [Spring 2022]  
 Research fellow for W. Bentley MacLeod, Columbia University  [Fall 2019]  
